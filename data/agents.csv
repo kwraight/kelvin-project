@@ -1,2 +1,32 @@
-name,born,died
-Kelvin,26-06-1824,17-12-1907
+name,birth_date,death_date,period
+Martin Luther,1483-11-10,1546-02-18,older
+James Ussher,1581-01-04,1656-03-21,older
+Gottfried Wilhelm Leibniz,1646-07-01,1716-11-14,older
+Thomas Burnet,None,1715-09-27,older
+Niels Steensen,1638-01-01,1686-11-25,older
+William Whiston,1667-12-09,1752-08-22,older
+Immanuel Kant,1724-04-22,None,middle
+Pierre-Simon Laplace,1749-03-23,1827-03-05,middle
+"Georges-Louis Leclerc,<br>Comte de Buffon",1707-09-07,1788-04-16,middle
+Robert Hooke,1635-07-18,None,middle
+James Hutton,1726-06-03,1797-03-26,middle
+The Baron Cuvier,1769-08-23,1832-05-13,middle
+Jean-Baptiste Lamarck,1744-08-01,1829-12-18,middle
+Richard Kirwan,None,None,middle
+Abraham Gottlob Werner,1749-09-25,None,middle
+William Buckland,1784-03-12,1856-08-14,middle
+George Julius Poulett Scrope,None,None,middle
+Louis Agassiz,1807-05-28,1873-12-14,newer
+William Whewell,1794-05-24,1866-03-06,newer
+Archibald Geikie,1835-12-28,1924-11-10,newer
+Thomas Chrowder Chamberlin,1843-09-25,1928-11-15,newer
+Julius Robert von Mayer,1814-11-25,1878-03-20,newer
+James Prescott Joule,1818-12-24,1889-10-11,newer
+Rudolf Clausius,1822-01-02,1888-08-24,newer
+The Lord Kelvin,1824-06-26,1907-12-17,newer
+Thomas Henry Huxley,1825-05-04,1895-06-29,newer
+Samuel Wilberforce,1805-09-07,1873-07-19,newer
+Charles Lyell,1797-11-14,1875-02-22,newer
+Charles Darwin,1809-02-12,1882-04-19,newer
+James Croll,1821-01-02,1890-12-15,newer
+Albert Einstein,1879-03-14,1955-04-18,newer
